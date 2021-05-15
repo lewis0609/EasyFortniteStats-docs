@@ -18,8 +18,8 @@ The command list can be accessed with `!fn help`.  Users with Manage Server or A
 | Command | Description | Example |
 | :--- | :--- | :---: |
 | `!fn` | Retrieve the stats of the account you linked. | `-` |
-| `!fn <DiscordUser¹>` | Retrieve the stats of a Discord user. | `!fn @Luc1412` |
-| `!fn <PlayerName>` | Retrieve the stats of an EpicGames account. | `!fn Ninja` |
+| `!fn <DiscordUser¹>` | Retrieve the stats of a Discord user. | `!fn @lewis` |
+| `!fn <PlayerName>` | Retrieve the stats of an EpicGames account. | `!fn jasontd88` |
 | `!fn stats faq` | Display frequently asked questions related to stats. | `-` |
 | `!fn link [PlayerName]` | Link your Discord account to your EpicGames account. | `!fn link`, `!fn link Ninja` |
 | `!fn unlink` | Remove the linking from your Discord and EpicGames account. | `-` |
